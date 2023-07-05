@@ -1,0 +1,38 @@
+body {
+    background-color: turquoise;
+}
+
+.img{
+    max-width: 99%;
+    max-height: 99%;
+}
+
+.image-slider{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+body {
+    background-color: black;
+}
+
+#botones {
+    position: absolute;
+}
+#siguiente {
+    right: 0;
+}
+
+#anterior {
+    left: 0;
+}
+
+.button-slider {
+    height: 100%;
+    width: 10%;
+    background-color: transparent;
+    font-size: 60px;
+}
